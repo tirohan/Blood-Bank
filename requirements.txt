@@ -35,13 +35,6 @@ constantly==15.1.0
 cryptography==3.4.7
 cymem==2.0.5
 daphne==3.0.2
-dj-database-url==0.5.0
-Django==3.0.14
-django-crispy-forms==1.13.0
-django-filter==21.1
-django-jinja @ https://github.com/niwinz/django-jinja/archive/7d08e5d5d7cad5c00b65fd7c4b4f095f209a4162.tar.gz
-django-rest-framework==0.1.0
-djangorestframework==3.12.4
 dominate==2.6.0
 Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
