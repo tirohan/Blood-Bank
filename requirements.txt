@@ -128,3 +128,4 @@ whitenoise==5.2.0
 wincertstore==0.2
 wrapt==1.12.1
 wwo-hist==0.0.7
+asgiref==3.2.7
