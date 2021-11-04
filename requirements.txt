@@ -1,4 +1,4 @@
-asgiref~=3.0
+asgiref==3.2.7
 Django
 django-widget-tweaks==1.4.8
 pytz==2020.1
@@ -33,7 +33,6 @@ colorama==0.4.4
 constantly==15.1.0
 cryptography==3.4.7
 cymem==2.0.5
-daphne==3.0.2
 dominate==2.6.0
 Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
